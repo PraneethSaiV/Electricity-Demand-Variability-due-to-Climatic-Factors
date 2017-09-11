@@ -2,7 +2,7 @@
 
 The goal of the current study is to develop statistical models that explains the relation between electricity and climatic variables on regional scales. As a case study, Mukhopadhyaya and Nateghi (2017) predicted the climate-sensitive electricity consumption in the state of Florida. Therefore, to obtain the spatio-temporal heterogeneity in climate-sensitive electricity demand in USA, this analysis has been extended to five other states of USA. They are: California, Illinois, New York, Texas and Washington.
 
-<h2>Data Sources:<h2>
+<h2>Data Sources:</h2>
 The dataset consists of climatic predictors, weather predictors and economic predictors. The type of predictors considered in each of these segments, their data source and pre-processing steps has been described below:</br>
 1. Electricity sales data was obtained from the database published by the United States Energy Information Administration (EIA). The monthly electricity sales data of the residential and commercial sectors for the period of 1990–2015 was extracted from the database.</br>
 2. Climate data was obtained from the National Digital Forecast Database maintained by National Oceanic and Atmospheric Administration (NOAA), starting from 01-Jan-1990 to 01-Jan-2016.</br>

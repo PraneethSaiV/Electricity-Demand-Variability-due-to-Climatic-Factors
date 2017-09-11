@@ -1,2 +1,2 @@
 # Data-Analytics
-This stores all the major Data Analytics projects I have worked on.
+This stores the major Data Analytics projects I have worked on.
